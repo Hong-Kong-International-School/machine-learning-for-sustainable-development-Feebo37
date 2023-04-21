@@ -8,6 +8,9 @@
 https://github.com/Hong-Kong-International-School/machine-learning-for-sustainable-development-Feebo37
 
 
+The SDG I will be focusing on is 3 (Good Health and Wellbeing).
+
+The problem: Skin cancer can be hard to detect if you are unaware what it looks like, I will create a deep learning model that will help identify Skin Cancer.
 
 
 
