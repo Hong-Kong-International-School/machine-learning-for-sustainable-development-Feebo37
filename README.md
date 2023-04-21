@@ -11,9 +11,9 @@
 
     
     
-The SDGs I will be focusing on is SDG 3.
+The SDGs I will be focusing on is SDG 3 (Health and Well-Being)
 
-The problem: People are too lazy to properly recycle their waste. A lot of it had to be manually sorted. What happens when people decide not to manually sort their waste anymore?
+The problem: Skin Cancer Detection.
 
 
 
