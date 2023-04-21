@@ -5,11 +5,21 @@
 <br/>
 
 
+<!-- <a href="[https://github.com/drkostas](https://github.com/Hong-Kong-International-School/machine-learning-for-sustainable-development-Feebo37/blob/main/README.md)">
+  
+
+<a href="https://github.com/drkostas">
+    <img src="[https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000](https://github-stats-alpha.vercel.app/api?username=Feebo37&cc=22272e&tc=37BCF6&ic=fff&bc=0000)">
+</a>
+
+</p>
+    
+    
+The SDGs I will be focusing on is SDG 3.
+
+The problem: People are too lazy to properly recycle their waste. A lot of it had to be manually sorted. What happens when people decide not to manually sort their waste anymore?
 
 
-The SDG I will be focusing on is 3 (Good Health and Wellbeing).
-
-The problem: Skin cancer can be hard to detect if you are unaware what it looks like, I will create a deep learning model that will help identify Skin Cancer.
 
 
 
