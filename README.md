@@ -5,7 +5,6 @@
 <br/>
 
 
-https://github.com/Hong-Kong-International-School/machine-learning-for-sustainable-development-Feebo37
 
 
 The SDG I will be focusing on is 3 (Good Health and Wellbeing).
