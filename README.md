@@ -11,9 +11,9 @@
 
     
     
-The SDGs I will be focusing on is SDG 3 (Health and Well-Being)
+The SDGs I will be focusing on is SDG 3 (Health and Well-Being), more specifically I will be building a model that will dectect skin cancer using image classification. You would input a picture of your skin and the ai will output wether or not you have skin cancer. 
 
-The problem: Skin Cancer Detection.
+
 
 
 
