@@ -14,22 +14,7 @@
 The SDGs I will be focusing on is SDG 3 (Health and Well-Being), more specifically I will be building a model that will dectect skin cancer using image classification. You would input a picture of your skin and the ai will output wether or not you have skin cancer. 
 
 
-System details
-Purpose including how it addresses your chosen SDG
-What it does
-How it works
-How to install it
-How to use it
-Model Details
-Description of the machine learning model
-Data sources used for training
-Include a link to the original data. GitHub won't allow large uploads so it's best to upload this separately to cloud storage such as Google Drive.
-Discussion of model performance
-Development Overview
-Design process
-Stages of development
-Future work
-List of references
+
 
 
 
