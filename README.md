@@ -14,10 +14,35 @@
 The SDGs I will be focusing on is SDG 3 (Health and Well-Being), more specifically I will be building a model that will dectect skin cancer using image classification. You would input a picture of your skin and the ai will output wether you have a benign tumor or a maligant tumor.
     
 ## Required tools
-   -Xcode
    
+    
+    
+    
+    
+## What does the system do
+    -
  
 
+    
+    
+## How the system works  
+    
+    
+    
+    
+    
+## How to install the system
+    
+    
+    
+    
+    
+## How to use the system    
+    
+    
+    
+    
+    
 ## Future Work
    -Deployed so It can be used withen the frontend application.
         -Some options that could work (Package model with core ML and deploy directly into the Device)
