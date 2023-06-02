@@ -10,10 +10,21 @@
     <img src="[https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000](https://github-stats-alpha.vercel.app/api?username=Feebo37&cc=22272e&tc=37BCF6&ic=fff&bc=0000)">
 
     
+# System Details: 
+The SDGs I will be focusing on is SDG 3 (Health and Well-Being), more specifically I will be building a model that will dectect skin cancer using image classification. You would input a picture of your skin and the ai will output wether you have a benign tumor or a maligant tumor.
     
-The SDGs I will be focusing on is SDG 3 (Health and Well-Being), more specifically I will be building a model that will dectect skin cancer using image classification. You would input a picture of your skin and the ai will output wether or not you have skin cancer. 
+## Required tools
+   -Xcode
+   
+ 
 
-
+## Future Work
+   -Deployed so It can be used withen the frontend application.
+        -Some options that could work (Package model with core ML and deploy directly into the Device)
+            - Talk about pros and cons of that
+    -Deploy model as a cloud service (Azure, Hiroku, etc)
+    -Providing Accese Via a REST API
+    
 
 
 
