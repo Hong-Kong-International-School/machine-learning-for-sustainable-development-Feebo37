@@ -11,7 +11,7 @@
 
     
 # System Details: 
-The SDGs I will be focusing on is SDG 3 (Health and Well-Being), more specifically I will be building a model that will dectect skin cancer using image classification. You would input a picture of your skin and the ai will output wether you have a benign tumor or a maligant tumor.
+The SDG I will be focusing on is SDG 3 (Health and Well-Being), more specifically I will be building a model that will detect skin cancer using image classification. You would input a picture of your skin and the ai will output whether you have a benign tumor or a malignant tumor.
     
 ## Required tools
    
@@ -20,10 +20,9 @@ The SDGs I will be focusing on is SDG 3 (Health and Well-Being), more specifical
     
     
 ## What does the system do
-    -
- 
-
     
+    
+The system is supposed to read uploaded images of possible skin cancer spots and tell you whether it is a malignant tumor or a benign tumor.
     
 ## How the system works  
     
@@ -40,9 +39,22 @@ The SDGs I will be focusing on is SDG 3 (Health and Well-Being), more specifical
 ## How to use the system    
     
     
+# Model Details:
+    
+
+## Data Source   
     
     
+## Model Performance
     
+    
+## Design Process
+    
+ 
+## Stages of Development
+    
+    
+   
 ## Future Work
    -Deployed so It can be used withen the frontend application.
         -Some options that could work (Package model with core ML and deploy directly into the Device)
@@ -52,7 +64,7 @@ The SDGs I will be focusing on is SDG 3 (Health and Well-Being), more specifical
     
 
 
-
+## List of References
 
 
 
