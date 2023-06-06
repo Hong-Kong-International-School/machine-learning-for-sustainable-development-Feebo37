@@ -27,7 +27,7 @@ The system is supposed to read uploaded images of possible skin cancer spots and
 ## How the system works  
     
     
-    
+  
     
     
 ## How to install the system
