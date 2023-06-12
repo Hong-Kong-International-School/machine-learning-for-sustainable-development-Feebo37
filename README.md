@@ -14,45 +14,38 @@
 The SDG I will be focusing on is SDG 3 (Health and Well-Being), more specifically I will be building a model that will detect skin cancer using image classification. You would input a picture of your skin and the ai will output whether you have a benign tumor or a malignant tumor.
     
 ## Required tools
-   
-    
+ 
+Computer
+My model file (Link:https://drive.google.com/file/d/1-txzIhAyZEoO2JMX6YIheJgUgGBpISyS/view?usp=drive_link)
     
     
     
 ## What does the system do
-    
-    
-The system is supposed to read uploaded images of possible skin cancer spots and tell you whether it is a malignant tumor or a benign tumor.
-    
-## How the system works  
-    
-    
-  
+   
+ The system is supposed to read uploaded images of possible skin cancer spots and tell you whether it is a malignant tumor or a benign tumor.
+     
     
     
 ## How to install the system
     
-    
-    
-    
-    
-## How to use the system    
-    
+ Download the file and then you can do what you want with my model. For example, you can upload to cloud service and use it from there.   
+   
     
 # Model Details:
-    
+This model was trained using transfer learning, on resnet-50.   
+This model was trained for 50 epochs with batch size of 7.
 
 ## Data Source   
-    
+   Link to dataset(https://drive.google.com/drive/folders/1ur7Jnzo0mu6vTZh3zdQq-b0jBI2vBgjJ?usp=drive_link) 
     
 ## Model Performance
     
-    
-## Design Process
+    Not tested yet, with the training it was averaging 85-95% accuracy.
     
  
 ## Stages of Development
-    
+
+ I started with just my goal of finding a way to detect skin cancer using uploaded images, but I realised that it would be very difficult to do, due to time constraints. I plan on working on this in my own time and finishing it.
     
    
 ## Future Work
@@ -64,13 +57,12 @@ The system is supposed to read uploaded images of possible skin cancer spots and
     
 
 
-## List of References
 
 
 
  
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=240206-hk&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=240206-hk&redirect=true)
+
 
     
  
